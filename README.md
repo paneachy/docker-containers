@@ -1,2 +1,2 @@
 # docker-containers
-For experimenting with Docker and Kubernetes
+For experimenting with Docker, Kubernetes, and OpenShift
